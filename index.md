@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" alt="Coder GIF">
 </p>
 
-
 I'm a Python developer who's been studying and practicing Deep Learning. This website will house my efforts to contribute to the ever-expanding and supportive Python, Deep Learning community.
 
 <!-- ![Image](https://giant.gfycat.com/DelayedDapperArabianhorse.mp4) -->
