@@ -16,7 +16,7 @@ twitter_username: namanphy7
 linkedin_username: namanphy
 
 # Set this to true to get LaTeX math equation support
-use_math: True
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
@@ -30,7 +30,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     True
+  enabled:     true
   strip_title: true
   collections: true
 
