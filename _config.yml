@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Low Bias Low Variance
-description: This is a place where I write to uncomplicate the complicated stuff for myself and everyone else. I write about Deep Learning, Python and Life.. ❤
+description: I write about 🤖Deep Learning, 🐍Python and Life.. ❤
 github_username: namanphy
 
 # Email and twitter are optional:
@@ -30,7 +30,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     true
+  enabled:     False
   strip_title: true
   collections: true
 
